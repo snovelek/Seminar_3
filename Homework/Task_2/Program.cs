@@ -16,10 +16,6 @@ for (int i=0;i<2;i++){
     {
         System.Console.WriteLine("Введите координаты второй точки");
     }
-    if (i==2)
-    {
-        System.Console.WriteLine("Введите координаты второй точки");
-    }
     System.Console.Write("Введите X = ");
     X[i]=Convert.ToDouble(Console.ReadLine());
     System.Console.Write("Введите Y = ");
